@@ -1,0 +1,2 @@
+D:\Прога\Lab 7 (библиотека)\DLL\Debug\DLL.dll
+D:\Прога\Lab 7 (библиотека)\DLL\Debug\DLL.pdb
